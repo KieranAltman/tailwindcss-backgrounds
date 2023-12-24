@@ -1,6 +1,6 @@
 {
   "name": "@freeloop/tailwindcss-backgrounds",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tailwindcss plugin with dot background and grid background.",
   "main": "src/index.js",
   "scripts": {
